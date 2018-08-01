@@ -1,0 +1,7 @@
+C:\Users\Ronan\source\repos\IteratorPattern\IteratorPattern\bin\Debug\IteratorPattern.exe.config
+C:\Users\Ronan\source\repos\IteratorPattern\IteratorPattern\bin\Debug\IteratorPattern.exe
+C:\Users\Ronan\source\repos\IteratorPattern\IteratorPattern\bin\Debug\IteratorPattern.pdb
+C:\Users\Ronan\source\repos\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.csprojResolveAssemblyReference.cache
+C:\Users\Ronan\source\repos\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\Ronan\source\repos\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.exe
+C:\Users\Ronan\source\repos\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.pdb
